@@ -6,13 +6,13 @@ set linesize 1000
 set newp none
 alter session set NLS_NUMERIC_CHARACTERS = '.,'
 
-spool c:\loadcsv\metriccost.csv
+spool cC:\Users\davinciadmin\stadiumLogAnalysis\loadcsv\metriccost.csv
 set trimspool on
 select 'day','metric','actionname','timecost' from dual;
 select day || ',' || metric || ',' || actionname || ',' || timecost from (select * from ACTION_COST order by day desc) where rownum <= 60;
 spool off
 
-spool c:\loadcsv\metriccount.csv
+spool C:\Users\davinciadmin\stadiumLogAnalysis\loadcsv\metriccount.csv
 set trimspool on
 select 'day','actionname','times' from dual;
 select day || ',' || actionname || ',' || times from ACTION_COUNT where day in (  
@@ -21,7 +21,7 @@ select * from
 (select distinct day from ACTION_COUNT order by day desc) where rownum <= 60) t ) order by day desc;
 spool off
 
-spool c:\loadcsv\usercount.csv
+spool C:\Users\davinciadmin\stadiumLogAnalysis\loadcsv\usercount.csv
 set trimspool on
 select 'day','usercnt' from dual;
 select day || ',' || usercnt from (
@@ -45,7 +45,7 @@ as day,username from HEARTBEAT) t group by day order by day desc) where rownum <
 order by day  ;
 spool off
 
-spool c:\loadcsv\reportcost.csv
+spool C:\Users\davinciadmin\stadiumLogAnalysis\loadcsv\reportcost.csv
 set trimspool on
 select 'day','actionname','metric','timecost' from dual;
 select day || ',' || actionname || ',' || metric || ',' || replace(to_char(timecost), ',', '.') from REPORT_COST where day in (  
@@ -54,7 +54,7 @@ select day from (
 select distinct day from REPORT_COST order by day desc) where rownum <= 60)) order by day desc;
 spool off
 
-spool c:\loadcsv\reportcount.csv
+spool C:\Users\davinciadmin\stadiumLogAnalysis\loadcsv\reportcount.csv
 set trimspool on
 select 'day','actionname','type','times' from dual;
 select day || ',' || actionname || ',' || type || ',' || times from REPORT_COUNT where day in (  
