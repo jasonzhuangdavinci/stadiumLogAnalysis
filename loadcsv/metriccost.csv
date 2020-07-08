@@ -1,0 +1,61 @@
+day,metric,actionname,timecost
+2020-07-07 ,Calc. Retail Price,Update Metric,8.199
+2020-07-06 ,Pricat Variant,Update Metric,4.016
+2020-07-03 ,Pricat Variant,Update Metric,8.163
+2020-07-02 ,Pricat Variant,Update Metric,7.165
+2020-07-01 ,Pref. Retail Price,Update Metric,9.883
+2020-06-30 ,Pricat Variant,Update Metric,8.186
+2020-06-29 ,Pricat Model,Update Metric,8.06
+2020-06-26 ,Pricat Variant,Update Metric,9.201
+2020-06-25 ,Pricat Variant,Update Metric,9.338
+2020-06-24 ,Pricat Variant,Update Metric,9.334
+2020-06-23 ,Pricat Variant,Update Metric,9.267
+2020-06-22 ,Pricat Model,Update Metric,8.899
+2020-06-18 ,Pricat Variant,Update Metric,8.73
+2020-06-17 ,Pricat Model,Update Metric,8.393
+2020-06-16 ,Retail Price,Update Metric,9.676
+2020-06-15 ,Pricat Variant,Update Metric,9.488
+2020-06-12 ,Pricat Variant,Update Metric,9.475
+2020-06-11 ,Pricat Variant,Update Metric,8.28
+2020-06-10 ,Sales Weeks,Update Metric,7.591
+2020-06-09 ,Pricat Variant,Update Metric,6.318
+2020-06-08 ,Calc Min/Max Store,Update Metric,Null
+2020-06-05 ,Secondary Color,Update Metric,6.815
+2020-06-04 ,Pricat Variant,Update Metric,4.877
+2020-06-03 ,Pricat Model,Update Metric,8.017
+2020-06-02 ,Pricat Model,Update Metric,3.937
+2020-06-01 ,Pricat Model,Update Metric,0.291
+2020-05-29 ,Retail Price,Update Metric,2.787
+2020-05-28 ,Bonus Discount %,Update Metric,0.003
+2020-05-27 ,Primary Color,Update Metric,0.037
+2020-05-26 ,Pricat Variant,Update Metric,8.272
+2020-05-25 ,Pricat Variant,Update Metric,5.037
+2020-05-22 ,Color Override,Update Metric,0.11
+2020-05-20 ,Pricat Variant,Update Metric,6.685
+2020-05-19 ,Pref. Retail Price,Update Metric,8.283
+2020-05-18 ,Pref. Retail Price,Update Metric,8.353
+2020-05-15 ,Pref. Retail Price,Update Metric,7.946
+2020-05-14 ,Pref. Retail Price,Update Metric,8.08
+2020-05-13 ,Pricat Model,Update Metric,8.515
+2020-05-12 ,Retail Price,Update Metric,2.516
+2020-05-11 ,Pricat Model,Update Metric,5.746
+2020-05-08 ,Pref. Retail Price,Update Metric,3.199
+2020-05-07 ,Pref. Retail Price,Update Metric,2.976
+2020-05-06 ,Pref. Retail Price,Update Metric,8.627
+2020-05-05 ,Size Curve Confirmed,Update Metric,4.675
+2020-05-04 ,Pricat Variant,Update Metric,5.531
+2020-04-30 ,Pref. Retail Price,Update Metric,4.041
+2020-04-29 ,Pref. Retail Price,Update Metric,5.588
+2020-04-28 ,Pref. Retail Price,Update Metric,3.883
+2020-04-27 ,Pricat Model,Update Metric,6.435
+2020-04-24 ,Supplier Name,Update Metric,1.972
+2020-04-23 ,Retail Price,Update Metric,1.615
+2020-04-22 ,Pref. Retail Price,Update Metric,7.676
+2020-04-21 ,Size Curve Confirmed,Update Metric,Null
+2020-04-20 ,Supplier Name,Update Metric,4.174
+2020-04-17 ,Supp. Model Number,Update Metric,2.553
+2020-04-16 ,Pref. Retail Price,Update Metric,7.721
+2020-04-15 ,Secondary Color,Update Metric,5.134
+2020-04-14 ,Pref. Retail Price,Update Metric,6.189
+2020-04-09 ,Supp. Variant Number,Update Metric,Null
+2020-04-08 ,Calc. Retail Price,Update Metric,8.032
