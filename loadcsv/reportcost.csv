@@ -1,4 +1,5 @@
 day,actionname,metric,timecost
+2020-07-13,OPEN REPORT,Excel Extract #1 New,9.8
 2020-07-10,OPEN REPORT,Excel Extract #1 New,5.41
 2020-07-09,OPEN REPORT,Excel Extract #1 New,4.71
 2020-07-08,OPEN REPORT,Excel Extract #1 New,6.16
@@ -58,4 +59,3 @@ day,actionname,metric,timecost
 2020-04-20,OPEN REPORT,Excel Extract #1 New,29.54
 2020-04-17,OPEN REPORT,Excel Extract SC,24.59
 2020-04-16,OPEN REPORT,Excel Extract #1 New,14.96
-2020-04-15,OPEN REPORT,Seasonal Info,8.84
