@@ -1,14 +1,15 @@
 day,actionname,type,times
+2020-08-17,OPEN REPORT,Excel Extract #1 New,2
 2020-08-14,OPEN REPORT,Excel Extract #1 New,3
 2020-08-13,OPEN REPORT,Excel Extract #1 New,2
 2020-08-13,OPEN REPORT,Seasonal Info,3
 2020-08-13,OPEN REPORT,Excel Extract SC,2
 2020-08-12,OPEN REPORT,Excel Extract #1 New,11
 2020-08-11,OPEN REPORT,Excel Extract #1 New,2
+2020-08-10,OPEN REPORT,Seasonal Info,1
 2020-08-10,OPEN REPORT,Excel Extract #1 New,4
 2020-08-10,OPEN REPORT,Excel Extract #1 - RM,1
 2020-08-10,OPEN REPORT,Excel Extract AP/BUYER,1
-2020-08-10,OPEN REPORT,Seasonal Info,1
 2020-08-07,OPEN REPORT,Excel Extract #1 New,2
 2020-08-06,OPEN REPORT,Excel Extract #1 New,3
 2020-08-05,OPEN REPORT,Excel Extract #1 New,4
@@ -84,32 +85,30 @@ day,actionname,type,times
 2020-06-01,OPEN REPORT,Excel Extract AP/BUYER,1
 2020-05-29,OPEN REPORT,Store Info Extract,1
 2020-05-29,OPEN REPORT,Excel Extract #1 New,3
-2020-05-28,OPEN REPORT,Store Info Extract,1
 2020-05-28,OPEN REPORT,Excel Extract #1 New,3
+2020-05-28,OPEN REPORT,Store Info Extract,1
 2020-05-27,OPEN REPORT,Excel Extract #1 New,3
 2020-05-26,OPEN REPORT,Excel Extract #1 New,7
-2020-05-25,OPEN REPORT,Excel Extract SC,1
 2020-05-25,OPEN REPORT,Excel Extract #1 New,8
+2020-05-25,OPEN REPORT,Excel Extract SC,1
 2020-05-22,OPEN REPORT,Excel Extract #1 New,3
 2020-05-20,OPEN REPORT,Excel Extract #1 New,6
-2020-05-19,OPEN REPORT,Store Info Extract,1
-2020-05-19,OPEN REPORT,Seasonal Info,4
 2020-05-19,OPEN REPORT,Excel Extract AP/BUYER,4
+2020-05-19,OPEN REPORT,Store Info Extract,1
 2020-05-19,OPEN REPORT,Excel Extract #1 New,4
-2020-05-18,OPEN REPORT,Excel Extract #1 New,5
+2020-05-19,OPEN REPORT,Seasonal Info,4
 2020-05-18,OPEN REPORT,Excel Extract SC,3
-2020-05-18,OPEN REPORT,Seasonal Info,1
 2020-05-18,OPEN REPORT,Excel Extract AP/BUYER,1
+2020-05-18,OPEN REPORT,Seasonal Info,1
+2020-05-18,OPEN REPORT,Excel Extract #1 New,5
 2020-05-15,OPEN REPORT,Excel Extract #1 New,3
-2020-05-14,OPEN REPORT,Excel Extract #1 New,8
 2020-05-14,OPEN REPORT,Seasonal Info,4
+2020-05-14,OPEN REPORT,Excel Extract #1 New,8
 2020-05-13,OPEN REPORT,Excel Extract #1 New,5
 2020-05-12,OPEN REPORT,Store Info Extract,1
 2020-05-12,OPEN REPORT,Excel Extract AP/BUYER,2
 2020-05-12,OPEN REPORT,Excel Extract #1 New,10
 2020-05-11,OPEN REPORT,Assortment Category and PCS per Market,1
-2020-05-11,OPEN REPORT,Calculation,1
 2020-05-11,OPEN REPORT,Seasonal Info,1
+2020-05-11,OPEN REPORT,Calculation,1
 2020-05-11,OPEN REPORT,Excel Extract #1 New,7
-2020-05-08,OPEN REPORT,Excel Extract SC,1
-2020-05-08,OPEN REPORT,Excel Extract #1 New,3
