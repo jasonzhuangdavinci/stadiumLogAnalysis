@@ -1,23 +1,26 @@
 day,actionname,type,times
-2020-08-19,OPEN REPORT,Excel Extract #1 New,3
+2020-08-20,OPEN REPORT,Excel Extract #1 New,3
+2020-08-20,OPEN REPORT,Excel Extract AP/BUYER,3
+2020-08-19,OPEN REPORT,Excel Extract AP/BUYER,1
+2020-08-19,OPEN REPORT,Excel Extract #1 New,7
 2020-08-18,OPEN REPORT,Excel Extract AP/BUYER,1
-2020-08-18,OPEN REPORT,Store Info Extract,1
 2020-08-18,OPEN REPORT,Excel Extract #1 New,15
+2020-08-18,OPEN REPORT,Store Info Extract,1
 2020-08-17,OPEN REPORT,Excel Extract #1 New,3
 2020-08-14,OPEN REPORT,Excel Extract #1 New,3
-2020-08-13,OPEN REPORT,Seasonal Info,3
-2020-08-13,OPEN REPORT,Excel Extract SC,2
 2020-08-13,OPEN REPORT,Excel Extract #1 New,2
+2020-08-13,OPEN REPORT,Excel Extract SC,2
+2020-08-13,OPEN REPORT,Seasonal Info,3
 2020-08-12,OPEN REPORT,Excel Extract #1 New,11
 2020-08-11,OPEN REPORT,Excel Extract #1 New,2
-2020-08-10,OPEN REPORT,Excel Extract AP/BUYER,1
-2020-08-10,OPEN REPORT,Excel Extract #1 New,4
-2020-08-10,OPEN REPORT,Excel Extract #1 - RM,1
 2020-08-10,OPEN REPORT,Seasonal Info,1
+2020-08-10,OPEN REPORT,Excel Extract #1 New,4
+2020-08-10,OPEN REPORT,Excel Extract AP/BUYER,1
+2020-08-10,OPEN REPORT,Excel Extract #1 - RM,1
 2020-08-07,OPEN REPORT,Excel Extract #1 New,2
 2020-08-06,OPEN REPORT,Excel Extract #1 New,3
-2020-08-05,OPEN REPORT,Excel Extract SC,1
 2020-08-05,OPEN REPORT,Excel Extract AP/BUYER,1
+2020-08-05,OPEN REPORT,Excel Extract SC,1
 2020-08-05,OPEN REPORT,Excel Extract #1 New,4
 2020-08-04,OPEN REPORT,Excel Extract #1 New,2
 2020-08-03,OPEN REPORT,Excel Extract #1 New,1
@@ -106,6 +109,5 @@ day,actionname,type,times
 2020-05-18,OPEN REPORT,Excel Extract #1 New,5
 2020-05-18,OPEN REPORT,Excel Extract SC,3
 2020-05-15,OPEN REPORT,Excel Extract #1 New,3
-2020-05-14,OPEN REPORT,Excel Extract #1 New,8
 2020-05-14,OPEN REPORT,Seasonal Info,4
-2020-05-13,OPEN REPORT,Excel Extract #1 New,5
+2020-05-14,OPEN REPORT,Excel Extract #1 New,8
