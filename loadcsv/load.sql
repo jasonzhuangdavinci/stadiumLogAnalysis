@@ -6,7 +6,7 @@ set linesize 1000
 set newp none
 alter session set NLS_NUMERIC_CHARACTERS = '.,'
 
-spool cC:\Users\davinciadmin\stadiumLogAnalysis\loadcsv\metriccost.csv
+spool C:\Users\davinciadmin\stadiumLogAnalysis\loadcsv\metriccost.csv
 set trimspool on
 select 'day','metric','actionname','timecost' from dual;
 select day || ',' || metric || ',' || actionname || ',' || timecost from (select * from ACTION_COST order by day desc) where rownum <= 60;
