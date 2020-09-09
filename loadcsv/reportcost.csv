@@ -1,4 +1,5 @@
 day,actionname,metric,timecost
+2020-09-09,OPEN REPORT,Excel Extract #1 New,6.98
 2020-09-08,OPEN REPORT,Excel Extract #1 New,3.76
 2020-09-07,OPEN REPORT,Excel Extract #1 New,4.26
 2020-09-04,OPEN REPORT,Seasonal Info,4.67
@@ -58,4 +59,3 @@ day,actionname,metric,timecost
 2020-06-08,OPEN REPORT,Assortment Category and PCS per Market,5.34
 2020-06-05,OPEN REPORT,Store Info Extract,3.96
 2020-06-04,OPEN REPORT,Excel Extract #1 New,9.74
-2020-06-03,OPEN REPORT,Excel Extract #1 New,13.94
