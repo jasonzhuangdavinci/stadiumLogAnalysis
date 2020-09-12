@@ -1,4 +1,5 @@
 day,metric,actionname,timecost
+2020-09-11 ,Pricat Model,Update Metric,5.991
 2020-09-10 ,Pref. Retail Price,Update Metric,9.459
 2020-09-09 ,Pref. Retail Price,Update Metric,7.611
 2020-09-08 ,Pref. Retail Price,Update Metric,9.148
@@ -58,4 +59,3 @@ day,metric,actionname,timecost
 2020-06-23 ,Pricat Variant,Update Metric,9.267
 2020-06-22 ,Pricat Model,Update Metric,8.899
 2020-06-18 ,Pricat Variant,Update Metric,8.73
-2020-06-17 ,Pricat Model,Update Metric,8.393
