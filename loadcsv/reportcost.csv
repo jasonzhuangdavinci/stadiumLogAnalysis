@@ -1,4 +1,8 @@
 day,actionname,metric,timecost
+2020-09-21,OPEN REPORT,Excel Extract #1 New,4.5
+2020-09-18,OPEN REPORT,Excel Extract #1 New,10.03
+2020-09-17,OPEN REPORT,Excel Extract SC,6.18
+2020-09-16,OPEN REPORT,Excel Extract #1 New,5.02
 2020-09-15,OPEN REPORT,Excel Extract AP/BUYER,5.02
 2020-09-14,OPEN REPORT,Excel Extract #1 New,4.03
 2020-09-11,OPEN REPORT,Excel Extract #1 New,4.13
@@ -55,7 +59,3 @@ day,actionname,metric,timecost
 2020-06-18,OPEN REPORT,A005 Open Plan Detail Report,18.81
 2020-06-17,OPEN REPORT,Excel Extract #1 New,1.94
 2020-06-16,OPEN REPORT,Excel Extract #1 New,2.94
-2020-06-15,OPEN REPORT,Excel Extract #1 New,2.93
-2020-06-12,OPEN REPORT,Excel Extract #1 New,11.57
-2020-06-11,OPEN REPORT,Excel Extract #1 New,3.02
-2020-06-10,OPEN REPORT,Excel Extract #1 New,2.7
