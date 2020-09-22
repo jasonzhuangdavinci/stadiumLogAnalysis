@@ -1,4 +1,5 @@
 day,actionname,metric,timecost
+2020-09-22,OPEN REPORT,Excel Extract #1 New,3.88
 2020-09-21,OPEN REPORT,Excel Extract #1 New,4.5
 2020-09-18,OPEN REPORT,Excel Extract #1 New,10.03
 2020-09-17,OPEN REPORT,Excel Extract SC,6.18
@@ -58,4 +59,3 @@ day,actionname,metric,timecost
 2020-06-22,OPEN REPORT,Excel Extract #1 New,5.32
 2020-06-18,OPEN REPORT,A005 Open Plan Detail Report,18.81
 2020-06-17,OPEN REPORT,Excel Extract #1 New,1.94
-2020-06-16,OPEN REPORT,Excel Extract #1 New,2.94
