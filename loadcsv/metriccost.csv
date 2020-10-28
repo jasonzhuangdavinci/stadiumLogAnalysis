@@ -1,4 +1,21 @@
 day,metric,actionname,timecost
+2020-10-27 ,Pref. Retail Price,Update Metric,9.446
+2020-10-26 ,List Price,Update Metric,9.101
+2020-10-23 ,Retail Price,Update Metric,8.585
+2020-10-22 ,Sales Weeks,Update Metric,4.391
+2020-10-21 ,Pref. Retail Price,Update Metric,8.94
+2020-10-20 ,Retail Price,Update Metric,9.996
+2020-10-19 ,Pricat Model,Update Metric,6.49
+2020-10-16 ,Freight Charge (SEK),Update Metric,4.892
+2020-10-15 ,Pref. Retail Price,Update Metric,9.22
+2020-10-14 ,Pricat Variant,Update Metric,4.606
+2020-10-13 ,Pricat Model,Update Metric,7.313
+2020-10-12 ,Pref. Retail Price,Update Metric,9.856
+2020-10-09 ,Pricat Variant,Update Metric,7.538
+2020-10-08 ,Supp. Model Number,Update Metric,5.182
+2020-10-07 ,Pref. Retail Price,Update Metric,7.069
+2020-10-06 ,Pricat Variant,Update Metric,5.449
+2020-10-05 ,List Price,Update Metric,3.798
 2020-10-02 ,Primary Color,Update Metric,3.136
 2020-10-01 ,List Price,Update Metric,7.42
 2020-09-30 ,Pricat Variant,Update Metric,9.957
@@ -42,20 +59,3 @@ day,metric,actionname,timecost
 2020-08-07 ,Size Curve Confirmed,Update Metric,0.07
 2020-08-06 ,Retail Price,Update Metric,8.004
 2020-08-05 ,Pref. Retail Price,Update Metric,7.523
-2020-08-04 ,Supplier Name,Update Metric,1.915
-2020-08-03 ,Supp. Variant Number,Update Metric,0.016
-2020-07-31 ,Primary Color,Update Metric,0.039
-2020-07-30 ,Supplier Name,Update Metric,1.645
-2020-07-29 ,Retail Price,Update Metric,1.16
-2020-07-28 ,Duty %,Update Metric,0.017
-2020-07-27 ,Pref. Retail Price,Update Metric,1.235
-2020-07-23 ,Duty %,Update Metric,0.013
-2020-07-22 ,Pref. Retail Price (DE),Update Metric,0.019
-2020-07-21 ,Size Curve Confirmed,Update Metric,0.003
-2020-07-20 ,General Expence #1 %,Update Metric,0.002
-2020-07-17 ,Pref. Retail Price,Update Metric,7.799
-2020-07-16 ,Retail Price,Update Metric,2.7
-2020-07-15 ,Pref. Retail Price,Update Metric,2.033
-2020-07-14 ,Pricat Variant,Update Metric,3.156
-2020-07-13 ,Pricat Variant,Update Metric,5.805
-2020-07-10 ,Pref. Retail Price,Update Metric,2.199

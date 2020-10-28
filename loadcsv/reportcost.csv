@@ -1,4 +1,20 @@
 day,actionname,metric,timecost
+2020-10-28,OPEN REPORT,Seasonal Info,19.1
+2020-10-26,OPEN REPORT,Excel Extract #1 New,4.19
+2020-10-23,OPEN REPORT,Excel Extract SC,0
+2020-10-22,OPEN REPORT,Excel Extract #1 New,16.55
+2020-10-21,OPEN REPORT,Excel Extract #1 New,5.9
+2020-10-20,OPEN REPORT,Excel Extract #1 New,5.48
+2020-10-19,OPEN REPORT,Excel Extract #1 New,10.01
+2020-10-16,OPEN REPORT,Seasonal Info,6.05
+2020-10-15,OPEN REPORT,Seasonal Info,11.77
+2020-10-14,OPEN REPORT,Excel Extract #1 New,5.26
+2020-10-13,OPEN REPORT,Excel Extract #1 New,4.74
+2020-10-12,OPEN REPORT,Excel Extract SC,10.44
+2020-10-09,OPEN REPORT,Excel Extract #1 New,10.09
+2020-10-08,OPEN REPORT,Excel Extract #1 New,3.98
+2020-10-07,OPEN REPORT,Excel Extract #1 New,10.95
+2020-10-06,OPEN REPORT,Excel Extract #1 New,9.09
 2020-10-05,OPEN REPORT,Excel Extract #1 New,3.08
 2020-10-02,OPEN REPORT,Excel Extract #1 New,8.94
 2020-10-01,OPEN REPORT,Excel Extract #1 New,5.18
@@ -43,19 +59,3 @@ day,actionname,metric,timecost
 2020-08-07,OPEN REPORT,Excel Extract #1 New,5.6
 2020-08-06,OPEN REPORT,Excel Extract #1 New,4.91
 2020-08-05,OPEN REPORT,Excel Extract SC,15.71
-2020-08-04,OPEN REPORT,Excel Extract #1 New,26.27
-2020-08-03,OPEN REPORT,Excel Extract #1 New,12.71
-2020-07-24,OPEN REPORT,Excel Extract #1 New,28.39
-2020-07-20,OPEN REPORT,Excel Extract #1 New,3.41
-2020-07-17,OPEN REPORT,Excel Extract #1 New,3.81
-2020-07-16,OPEN REPORT,Excel Extract #1 New,3.59
-2020-07-15,OPEN REPORT,Excel Extract #1 New,5.55
-2020-07-13,OPEN REPORT,Excel Extract #1 New,9.8
-2020-07-10,OPEN REPORT,Excel Extract #1 New,5.41
-2020-07-09,OPEN REPORT,Excel Extract #1 New,4.71
-2020-07-08,OPEN REPORT,Excel Extract #1 New,6.16
-2020-07-07,OPEN REPORT,Excel Extract #1 New,4.71
-2020-07-06,OPEN REPORT,Excel Extract #1 New,4.01
-2020-07-03,OPEN REPORT,Excel Extract #1 New,3.77
-2020-07-02,OPEN REPORT,Excel Extract #1 New,3.96
-2020-07-01,OPEN REPORT,Excel Extract #1 New,5.3
