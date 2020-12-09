@@ -1,4 +1,30 @@
 day,metric,actionname,timecost
+2020-12-08 ,Pref. Retail Price,Update Metric,7.697
+2020-12-07 ,Calc. Retail Price,Update Metric,0.074
+2020-12-04 ,Supp. Variant Name,Update Metric,3.964
+2020-12-03 ,Pref. Retail Price,Update Metric,9.817
+2020-12-02 ,Size Curve Confirmed,Update Metric,0.003
+2020-12-01 ,Pricat Variant,Update Metric,5.042
+2020-11-30 ,Variant Status,Update Metric,2.945
+2020-11-26 ,Retail Price,Update Metric,8.294
+2020-11-25 ,Pricat Variant,Update Metric,2.187
+2020-11-24 ,Pricat Model,Update Metric,8.238
+2020-11-23 ,Pricat Variant,Update Metric,5.064
+2020-11-20 ,Long Model Name,Update Metric,0.004
+2020-11-19 ,Size Curve Confirmed,Update Metric,0.012
+2020-11-18 ,Pref. Retail Price,Update Metric,8.836
+2020-11-17 ,Pricat Variant,Update Metric,4.871
+2020-11-16 ,Size Curve Confirmed,Update Metric,0.019
+2020-11-13 ,Size Curve Confirmed,Update Metric,0.003
+2020-11-12 ,Pref. Retail Price,Update Metric,1.379
+2020-11-11 ,Pref. Retail Price,Update Metric,9.746
+2020-11-10 ,Pricat Variant,Update Metric,9.257
+2020-11-09 ,Pricat Product Class,Update Metric,6.359
+2020-11-06 ,Pricat Variant,Update Metric,5.747
+2020-11-05 ,Supplier Name,Update Metric,11.39
+2020-11-04 ,Pricat Model,Update Metric,7.857
+2020-11-03 ,Statistics Number,Update Metric,0.313
+2020-11-02 ,Pref. Retail Price,Update Metric,8.437
 2020-10-30 ,Pricat Variant,Update Metric,4.834
 2020-10-29 ,Pref. Retail Price,Update Metric,9.583
 2020-10-28 ,Pref. Retail Price,Update Metric,4.3
@@ -33,29 +59,3 @@ day,metric,actionname,timecost
 2020-09-17 ,Pricat Variant,Update Metric,9.718
 2020-09-16 ,Pricat Model,Update Metric,6.199
 2020-09-15 ,Pref. Retail Price,Update Metric,8.961
-2020-09-14 ,Pref. Retail Price,Update Metric,8.3
-2020-09-11 ,Pricat Model,Update Metric,5.991
-2020-09-10 ,Pref. Retail Price,Update Metric,9.459
-2020-09-09 ,Pref. Retail Price,Update Metric,7.611
-2020-09-08 ,Pref. Retail Price,Update Metric,9.148
-2020-09-07 ,Pref. Retail Price,Update Metric,7.135
-2020-09-04 ,Size Curve Confirmed,Update Metric,5.181
-2020-09-03 ,Pref. Retail Price,Update Metric,9.352
-2020-09-02 ,Supplier Name,Update Metric,3.332
-2020-09-01 ,Supp. Variant Number,Update Metric,9.388
-2020-08-31 ,Pricat Variant,Update Metric,0.991
-2020-08-28 ,Calc. Retail Price,Update Metric,7.823
-2020-08-27 ,Pref. Retail Price,Update Metric,8.621
-2020-08-26 ,Size Curve Confirmed,Update Metric,8.026
-2020-08-25 ,Retail Price,Update Metric,7.171
-2020-08-24 ,Variant Status,Update Metric,4.254
-2020-08-21 ,Supp. Variant Name,Update Metric,4.195
-2020-08-20 ,Pricat Model,Update Metric,8.835
-2020-08-19 ,Pref. Retail Price,Update Metric,5.161
-2020-08-18 ,Pricat Variant,Update Metric,9.904
-2020-08-17 ,Pricat Variant,Update Metric,5.14
-2020-08-14 ,Pricat Variant,Update Metric,4.293
-2020-08-13 ,Calc. Retail Price,Update Metric,2.563
-2020-08-12 ,Pricat Model,Update Metric,8.954
-2020-08-11 ,Size Curve Confirmed,Update Metric,6.462
-2020-08-10 ,Calc. Retail Price,Update Metric,1.51
