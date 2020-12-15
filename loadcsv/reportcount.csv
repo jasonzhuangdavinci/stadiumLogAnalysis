@@ -1,11 +1,12 @@
 day,actionname,type,times
+2020-12-15,OPEN REPORT,Excel Extract #1 New,8
 2020-12-09,OPEN REPORT,Excel Extract #1 - RM,1
-2020-12-09,OPEN REPORT,Excel Extract AP/BUYER,3
 2020-12-09,OPEN REPORT,Excel Extract #1 New,4
+2020-12-09,OPEN REPORT,Excel Extract AP/BUYER,3
 2020-12-08,OPEN REPORT,Excel Extract #1 New,4
-2020-12-04,OPEN REPORT,Excel Extract SC,1
-2020-12-04,OPEN REPORT,Excel Extract AP/BUYER,1
 2020-12-04,OPEN REPORT,Excel Extract #1 New,1
+2020-12-04,OPEN REPORT,Excel Extract AP/BUYER,1
+2020-12-04,OPEN REPORT,Excel Extract SC,1
 2020-12-03,OPEN REPORT,Excel Extract #1 New,4
 2020-12-01,OPEN REPORT,Excel Extract #1 New,3
 2020-11-26,OPEN REPORT,Excel Extract #1 New,3
@@ -13,19 +14,19 @@ day,actionname,type,times
 2020-11-25,OPEN REPORT,Excel Extract #1 New,6
 2020-11-24,OPEN REPORT,Excel Extract #1 New,1
 2020-11-24,OPEN REPORT,Excel Extract AP/BUYER,1
-2020-11-20,OPEN REPORT,Excel Extract #1 - BUC,1
 2020-11-20,OPEN REPORT,Excel Extract #1 New,1
+2020-11-20,OPEN REPORT,Excel Extract #1 - BUC,1
 2020-11-19,OPEN REPORT,Excel Extract #1 New,6
 2020-11-18,OPEN REPORT,Calculation,1
-2020-11-18,OPEN REPORT,Excel Extract SC,1
 2020-11-18,OPEN REPORT,Excel Extract #1 New,3
 2020-11-18,OPEN REPORT,Excel Extract AP/BUYER,1
+2020-11-18,OPEN REPORT,Excel Extract SC,1
 2020-11-17,OPEN REPORT,Excel Extract AP/BUYER,2
 2020-11-16,OPEN REPORT,Excel Extract #1 New,5
 2020-11-13,OPEN REPORT,Excel Extract #1 New,1
 2020-11-11,OPEN REPORT,Excel Extract #1 New,6
-2020-11-10,OPEN REPORT,Excel Extract AP/BUYER,1
 2020-11-10,OPEN REPORT,Excel Extract #1 New,5
+2020-11-10,OPEN REPORT,Excel Extract AP/BUYER,1
 2020-11-09,OPEN REPORT,Excel Extract #1 New,1
 2020-11-06,OPEN REPORT,Excel Extract #1 New,1
 2020-11-05,OPEN REPORT,Seasonal Info,2
@@ -104,15 +105,12 @@ day,actionname,type,times
 2020-09-17,OPEN REPORT,Excel Extract #1 New,9
 2020-09-17,OPEN REPORT,Excel Extract AP/BUYER,2
 2020-09-16,OPEN REPORT,Excel Extract #1 New,7
-2020-09-15,OPEN REPORT,Excel Extract #1 New,5
 2020-09-15,OPEN REPORT,Excel Extract AP/BUYER,2
+2020-09-15,OPEN REPORT,Excel Extract #1 New,5
 2020-09-14,OPEN REPORT,Excel Extract AP/BUYER,1
 2020-09-14,OPEN REPORT,Excel Extract #1 New,11
 2020-09-11,OPEN REPORT,Excel Extract #1 New,7
+2020-09-10,OPEN REPORT,Excel Extract #1,1
 2020-09-10,OPEN REPORT,Excel Extract #1 New,7
 2020-09-10,OPEN REPORT,Seasonal Info,5
-2020-09-10,OPEN REPORT,Excel Extract #1,1
 2020-09-09,OPEN REPORT,Excel Extract #1 New,5
-2020-09-08,OPEN REPORT,Excel Extract AP/BUYER,2
-2020-09-08,OPEN REPORT,Price Extract,1
-2020-09-08,OPEN REPORT,Excel Extract #1 New,7

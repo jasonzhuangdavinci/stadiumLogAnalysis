@@ -1,4 +1,5 @@
 day,metric,actionname,timecost
+2020-12-14 ,Size Curve Confirmed,Update Metric,0.0
 2020-12-11 ,Size Curve Confirmed,Update Metric,0.014
 2020-12-10 ,Pref. Retail Price,Update Metric,6.578
 2020-12-09 ,Pricat Model,Update Metric,7.168
@@ -58,4 +59,3 @@ day,metric,actionname,timecost
 2020-09-23 ,Pricat Model,Update Metric,9.297
 2020-09-22 ,Pref. Retail Price,Update Metric,9.806
 2020-09-21 ,Pricat Variant,Update Metric,9.729
-2020-09-18 ,Retail Price,Update Metric,7.534
