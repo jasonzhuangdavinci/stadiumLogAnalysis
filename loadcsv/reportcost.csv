@@ -1,5 +1,6 @@
 day,actionname,metric,timecost
-2020-12-16,OPEN REPORT,Excel Extract #1 New,8.1
+2020-12-17,OPEN REPORT,Seasonal Info,12.24
+2020-12-16,OPEN REPORT,Excel Extract #1 New,14.08
 2020-12-15,OPEN REPORT,Excel Extract #1 New,11.55
 2020-12-09,OPEN REPORT,Excel Extract #1 New,36.87
 2020-12-08,OPEN REPORT,Excel Extract #1 New,6.34
@@ -58,4 +59,3 @@ day,actionname,metric,timecost
 2020-09-15,OPEN REPORT,Excel Extract AP/BUYER,5.02
 2020-09-14,OPEN REPORT,Excel Extract #1 New,4.03
 2020-09-11,OPEN REPORT,Excel Extract #1 New,4.13
-2020-09-10,OPEN REPORT,Seasonal Info,6.62
