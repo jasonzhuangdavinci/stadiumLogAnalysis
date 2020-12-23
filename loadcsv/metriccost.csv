@@ -1,4 +1,5 @@
 day,metric,actionname,timecost
+2020-12-22 ,Pricat Model,Update Metric,2.306
 2020-12-21 ,Pref. Retail Price,Update Metric,1.233
 2020-12-18 ,Supplier Name,Update Metric,1.704
 2020-12-17 ,Calc. Retail Price,Update Metric,0.773
@@ -58,4 +59,3 @@ day,metric,actionname,timecost
 2020-09-30 ,Pricat Variant,Update Metric,9.957
 2020-09-29 ,Retail Price,Update Metric,7.649
 2020-09-28 ,Retail Price,Update Metric,8.914
-2020-09-25 ,Pricat Model,Update Metric,3.022
