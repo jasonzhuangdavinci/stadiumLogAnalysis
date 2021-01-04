@@ -41176,3 +41176,22 @@ C:\Users\davinciadmin\stadiumLogAnalysis>git commit -m 'commit'
  2 files changed, 987 insertions(+), 2 deletions(-)
 
 C:\Users\davinciadmin\stadiumLogAnalysis>git push 
+
+C:\Windows\system32>cd C:\Users\davinciadmin\stadiumLogAnalysis 
+
+C:\Users\davinciadmin\stadiumLogAnalysis>sqlplus -s assort1800/gtuiASY1299@stadavp.int.stadium.biz:1521/STADAVP @loadcsv\load.sql 
+
+C:\Users\davinciadmin\stadiumLogAnalysis>sqlplus -s assort1830/xzytre8913@stadavp.int.stadium.biz:1521/STADAVP @loadcsv\loadoutlet.sql 
+
+C:\Users\davinciadmin\stadiumLogAnalysis>git config --global user.email "jason.zhuang@davinciretail.com" 
+
+C:\Users\davinciadmin\stadiumLogAnalysis>git config --global user.name "jasonzhuangdavinci" 
+
+C:\Users\davinciadmin\stadiumLogAnalysis>git add loadcsv\* 
+
+C:\Users\davinciadmin\stadiumLogAnalysis>git add * 
+
+C:\Users\davinciadmin\stadiumLogAnalysis>git commit -m 'commit' 
+[master 5945789] 'commit'
+
+C:\Users\davinciadmin\stadiumLogAnalysis>git push 
