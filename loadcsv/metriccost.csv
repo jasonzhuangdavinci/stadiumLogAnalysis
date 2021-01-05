@@ -1,4 +1,5 @@
 day,metric,actionname,timecost
+2021-01-04 ,Retail Price,Update Metric,0.796
 2020-12-30 ,Statistics Number,Update Metric,0.001
 2020-12-29 ,Logistic Discount %,Update Metric,7.014
 2020-12-28 ,Pref. Retail Price,Update Metric,7.473
@@ -58,4 +59,3 @@ day,metric,actionname,timecost
 2020-10-07 ,Pref. Retail Price,Update Metric,7.069
 2020-10-06 ,Pricat Variant,Update Metric,5.449
 2020-10-05 ,List Price,Update Metric,3.798
-2020-10-02 ,Primary Color,Update Metric,3.136
